@@ -83,10 +83,6 @@ Insights
 
 ## 📷 Dashboard Preview
 
-## Dashboard Preview
-
-## Dashboard Preview
-
 ![Weather Dashboard](/dashboard.png)
 
 
