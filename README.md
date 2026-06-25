@@ -1,8 +1,8 @@
-# 🌍 Global Weather Data Analysis Dashboard
+# 🌍 Smart Travel Weather Intelligence Dashboard
 
 ## 📌 Project Overview
 
-The Global Weather Data Analysis Dashboard is a data analytics project
+The Smart Travel Weather Intelligence Dashboard is a data analytics project
 developed using Excel and Power BI to clean, analyze, and visualize
 weather data.
 
@@ -66,9 +66,11 @@ Insights
 
 ## 🔍 Key Insights
 
--   Weather trend identification
--   Data-driven visualization
--   Improved understanding of weather patterns
+* Smart weather insights for better travel planning
+* Interactive dashboard for easier data exploration
+* Data-driven weather visualization
+* Improved understanding of weather conditions
+
 
 ------------------------------------------------------------------------
 
